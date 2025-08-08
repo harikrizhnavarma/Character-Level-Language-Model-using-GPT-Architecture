@@ -5,8 +5,7 @@ This project implements a GPT-style Transformer model to generate character-leve
 
 ### 📁 Project Structure
 
-Bigram_Language_Model/
-│
+
 ├── input.txt                  # Raw training text data
 
 ├── GPT_dataPrep.py           # Data preprocessing, encoding/decoding, batching
