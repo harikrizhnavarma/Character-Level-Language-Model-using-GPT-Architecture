@@ -26,14 +26,23 @@ This project implements a GPT-style Transformer model to generate character-leve
 ### ⚙️ Hyperparameters (hyper_parameters.py)
 
 NUM_EPOCHS = 5000
+
 LEARNING_RATE = 1e-3
+
 BATCH_SIZE = 64
+
 BLOCK_SIZE = 256
+
 NUM_EMBED = 384
+
 NUM_HEADS = 6
+
 NUM_LAYERS = 6
+
 DROPOUT = 0.2
+
 MAX_NEW_TOKENS = 10000
+
 TRAIN_SIZE = 0.90
 
 
